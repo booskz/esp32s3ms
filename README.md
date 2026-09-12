@@ -6,5 +6,5 @@
 
 
 ## 项目原理
-esp设备上开两个interface一个作为鼠标或键盘(当做键盘需要再开启一个interface)另一个作为通讯下发通道
+![](https://storage.opty.fun/OPTY/doc/other/b5e5abe2-db5d-4c61-8631-0939662c3c97.png)
 
