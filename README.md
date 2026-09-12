@@ -1,9 +1,9 @@
 ## 项目介绍
 该项目简单实现鼠标/键盘HID协议  
 该项目不保证不被检测如果使用风险自担
-```
-目前测试只有ACE有时候会检测如果需要过ACE可以使用[3506链接](https://opty.fun/read/69c8a51daeb6ec76d4286baf)板子
-```
+
+>>> 目前测试只有ACE有时候会检测如果需要过ACE可以使用[3506链接](https://opty.fun/read/69c8a51daeb6ec76d4286baf)板子
+
 
 ## 项目原理
 esp设备上开两个interface一个作为鼠标或键盘(当做键盘需要再开启一个interface)另一个作为通讯下发通道
